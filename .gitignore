@@ -4,3 +4,11 @@ dist
 logs
 .DS_Store
 .venv/
+mcp-server-stuff*
+
+# never commit
+.venv/
+.env
+*.pem
+*.key
+mcp-server-stuff*
